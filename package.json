@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "bluebird": "^3.4.1",
-    "jsonpath": "~0.2.2",
+    "jsonpath": "git+https://github.com/swoopyy/jsonpath.git",
     "uuid": "~2.0.1"
   },
   "optionalDependencies": {
