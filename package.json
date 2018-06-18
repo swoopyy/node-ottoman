@@ -16,10 +16,12 @@
   "dependencies": {
     "bluebird": "^3.4.1",
     "jsonpath": "git+https://github.com/swoopyy/jsonpath.git",
+    "lodash": "^4.15.0",
+    "lodash-deep": "^2.0.0",
     "uuid": "~2.0.1"
   },
   "optionalDependencies": {
-    "couchbase": "~2.2.2"
+    "couchbase": "~2.4.1"
   },
   "devDependencies": {
     "chai": "~3.3.0",
@@ -31,7 +33,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/couchbaselabs/ottoman.git"
+    "url": "http://github.com/couchbaselabs/node-ottoman.git"
   },
-  "version": "1.0.4"
+  "version": "1.0.5"
 }
